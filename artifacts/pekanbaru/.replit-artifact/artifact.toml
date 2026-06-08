@@ -1,0 +1,31 @@
+kind = "web"
+previewPath = "/"
+title = "Pekanbaru City"
+version = "1.0.0"
+id = "artifacts/pekanbaru"
+router = "path"
+
+[[integratedSkills]]
+name = "react-vite"
+version = "1.0.0"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 22814
+
+[services.development]
+run = "pnpm --filter @workspace/pekanbaru run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/pekanbaru", "run", "build" ]
+publicDir = "artifacts/pekanbaru/dist/public"
+serve = "static"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "22814"
+BASE_PATH = "/"

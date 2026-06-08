@@ -1,0 +1,277 @@
+Create an award-winning interactive website for PEKANBARU CITY.
+
+The website should feel like a mix of:
+
+Apple Product Launch
+Awwwards Site of the Day
+Visit Dubai
+Discover Singapore
+National Geographic Storytelling
+Modern Smart City Experience
+
+The goal is not to create a government portal.
+
+The goal is to create an immersive digital experience that makes visitors feel proud, curious, and excited to explore Pekanbaru.
+
+Every scroll should reveal something magical.
+
+Every section should feel cinematic.
+
+No boring layouts.
+
+No generic cards.
+
+No template designs.
+
+OPENING EXPERIENCE
+
+Before entering the website:
+
+Create an animated loading experience.
+
+Background:
+
+Dark screen.
+
+Center:
+
+PEKANBARU
+
+Letters slowly appear one by one.
+
+A glowing line expands horizontally.
+
+Subtitle fades in:
+
+"The Capital of Opportunity"
+
+After 3 seconds:
+
+Screen transitions into the hero using a cinematic zoom effect.
+
+HERO SECTION
+
+Full viewport height.
+
+Use a cinematic drone video of Pekanbaru.
+
+Show:
+
+Masjid Raya An-Nur
+Flyover SKA
+Soeman HS Library
+City skyline
+Night lights
+
+Create 3D depth layers.
+
+Foreground:
+
+Large typography:
+
+PEKANBARU
+
+Font size should be enormous.
+
+Text should partially disappear behind city elements.
+
+Parallax effect:
+
+Background moves slower than foreground.
+
+Create immersive depth.
+
+SCROLL STORYTELLING EXPERIENCE
+
+As the user scrolls:
+
+The city transforms from:
+
+Morning → Afternoon → Sunset → Night
+
+Lighting changes smoothly.
+
+Sky colors evolve.
+
+City lights turn on.
+
+The user feels like they are traveling through a full day in Pekanbaru.
+
+SECTION 01 — THE CITY
+
+Huge typography:
+
+A CITY THAT NEVER STOPS GROWING
+
+Statistics animate from 0:
+
+Population
+Districts
+Universities
+Tourist Destinations
+Economic Growth
+
+Numbers should animate dramatically.
+
+Background elements float subtly.
+
+SECTION 02 — LANDMARKS
+
+Create horizontal storytelling.
+
+As user scrolls:
+
+Massive cards slide horizontally.
+
+Featured:
+
+Masjid Raya An-Nur
+Soeman HS Library
+Pasar Bawah
+Alam Mayang
+Lembah Sari
+Kaca Mayang
+
+Cards should have:
+
+3D tilt
+Hover zoom
+Animated lighting
+SECTION 03 — CULTURE OF RIAU
+
+Background transforms.
+
+Malay ornament patterns slowly appear.
+
+Showcase:
+
+Zapin Dance
+Traditional Architecture
+Traditional Clothing
+Cultural Festivals
+
+Images animate into place using masks and reveal effects.
+
+SECTION 04 — PEKANBARU AT NIGHT
+
+Dark immersive section.
+
+City lights glow.
+
+Create neon-inspired visuals.
+
+Large typography:
+
+THE CITY AFTER DARK
+
+Show:
+
+Culinary spots
+Coffee shops
+Night markets
+Urban lifestyle
+
+Add subtle glow effects.
+
+SECTION 05 — SMART CITY
+
+Future-focused section.
+
+Background:
+
+Animated grid system.
+
+Floating UI panels.
+
+Display:
+
+Digital Services
+Smart Governance
+Public Services
+Transportation
+
+Glassmorphism everywhere.
+
+SECTION 06 — EXPLORE PEKANBARU
+
+Interactive map.
+
+Users can hover locations.
+
+Markers animate.
+
+Location cards appear dynamically.
+
+Smooth transitions.
+
+SECTION 07 — CONTACT
+
+Massive cinematic ending.
+
+Background:
+
+Night aerial of Pekanbaru.
+
+Glassmorphism contact form.
+
+Large heading:
+
+READY TO EXPLORE PEKANBARU?
+
+Button:
+
+START YOUR JOURNEY
+
+ANIMATION SYSTEM
+
+Use:
+
+Framer Motion
+GSAP
+Lenis
+Three.js
+React Three Fiber
+
+Animations:
+
+Scroll-triggered storytelling
+Parallax
+Smooth reveal
+3D tilt
+Morphing transitions
+Dynamic blur
+Floating objects
+Mouse interaction
+Magnetic buttons
+Animated counters
+Section transitions
+SPECIAL EFFECTS
+
+Add:
+
+Custom cursor
+Scroll progress indicator
+Dynamic lighting
+Glassmorphism
+Motion blur
+Hover particles
+Depth of field effects
+3D camera movements
+TECH STACK
+Next.js 15
+TypeScript
+Tailwind CSS
+Framer Motion
+GSAP
+Lenis
+Three.js
+React Three Fiber
+DESIGN GOAL
+
+This website should feel like it belongs on Awwwards.
+
+It should be visually stunning, cinematic, immersive, and unforgettable.
+
+Every section should make visitors say:
+
+"Wow, I didn't know Pekanbaru could look this amazing."

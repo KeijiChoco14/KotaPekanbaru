@@ -1,0 +1,62 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "SEOOEhFz-S7BBNURhGH_O"
+uri = "file://artifacts/pekanbaru/src/assets/images/hero.png"
+type = "image"
+title = "Pekanbaru aerial drone dusk"
+
+[[generated]]
+id = "XgHLx6rfEAvwcETgKZviz"
+uri = "file://artifacts/pekanbaru/src/assets/images/masjid-annur.png"
+type = "image"
+title = "Masjid Raya An-Nur twilight"
+
+[[generated]]
+id = "Vu2sRMP6qcLPu2f8pj6lo"
+uri = "file://artifacts/pekanbaru/src/assets/images/library.png"
+type = "image"
+title = "Soeman HS Library modern"
+
+[[generated]]
+id = "LeEdv9VYX8fOc_uGkagLf"
+uri = "file://artifacts/pekanbaru/src/assets/images/pasar-bawah.png"
+type = "image"
+title = "Pasar Bawah historic market"
+
+[[generated]]
+id = "O3G_DWKhl2o1JaikV6CPn"
+uri = "file://artifacts/pekanbaru/src/assets/images/alam-mayang.png"
+type = "image"
+title = "Alam Mayang tropical park"
+
+[[generated]]
+id = "dFK1QI-wqVriBSXap7FVo"
+uri = "file://artifacts/pekanbaru/src/assets/images/lembah-sari.png"
+type = "image"
+title = "Lembah Sari green valley"
+
+[[generated]]
+id = "wkTZuG2tTN22vsgQ1_gpv"
+uri = "file://artifacts/pekanbaru/src/assets/images/kaca-mayang.png"
+type = "image"
+title = "Kaca Mayang at night"
+
+[[generated]]
+id = "DxFnp_rHbZ3qrvM9olDC0"
+uri = "file://artifacts/pekanbaru/src/assets/images/zapin.png"
+type = "image"
+title = "Zapin dance performance"
+
+[[generated]]
+id = "HyM-AH0n8zEUL6Nl09hSW"
+uri = "file://artifacts/pekanbaru/src/assets/images/night-market.png"
+type = "image"
+title = "Pekanbaru night street food"
+
+[[generated]]
+id = "57YqoWU3z1UOEKOWmMe50"
+uri = "file://artifacts/pekanbaru/src/assets/images/smart-city.png"
+type = "image"
+title = "Smart city network abstract"
